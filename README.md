@@ -9,13 +9,7 @@
 <title> Página sobre a Atividade</title>
 
 <style>
-.quadrado{
-width: 750px;
-height: 1000px;
-border: 35px solid #000;
-background-image: url(WhatsApp\ Image\ 2026-03-24\ at\ 23.51.17.jpeg);
-}
-
+    
 body{
 background-color: lightgray;
 font-family: Arial, Helvetica, sans-serif;
