@@ -105,7 +105,7 @@ footer{
 </footer>
 
 
-<div class="quadrado"></div>
+<div class="quadrado"><img src="WhatsApp\ Image\ 2026-03-24\ at\ 23.51.17.jpeg" alt=""></div>
 
 </body>
 </html> 
